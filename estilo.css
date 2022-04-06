@@ -1,0 +1,41 @@
+body{
+    background-color: #FFFAF0;
+    margin: 0;
+    padding: 0;
+}
+#principal{
+    width: 900px;
+    padding-left: 200px;
+}
+#ft-capa{
+    padding-bottom: 0;
+}
+#menu{
+    margin: 0;
+    padding: 10px;
+    background-color: #FFFACD;
+}
+a{
+    color:#DAA520 ;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 15px;
+}
+a:hover{
+    background-color: #FFDEAD;
+}
+.conteudo{
+    background-color: #FFF;
+    padding: 15px;
+}
+h3{
+    text-align: center;
+}
+h1{
+    color: #DAA520;
+    font-size: 20px;
+    padding: 0;
+}
+.fotos{
+    border: 8px solid #FFFACD;
+}
